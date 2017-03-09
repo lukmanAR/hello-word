@@ -1,2 +1,6 @@
 # hello-word
-just another repository
+
+
+Hi humans!
+im here
+
